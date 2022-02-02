@@ -9,7 +9,7 @@ import tkinter as tk
 def lt_elev():
     elevNR = elevNummer.get()
     elevNA = elevNavn.get()
-    elevSP = favorittspill.get()
+    elevSP = favorittSpill.get()
     #
     #
     # Her kommer koden din der du legger til en elev i databasen
